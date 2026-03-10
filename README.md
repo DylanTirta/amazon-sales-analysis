@@ -173,7 +173,7 @@ Analisis menemukan dua kategori produk penting:
 
 Dashboard dibuat untuk memberikan **gambaran cepat mengenai performa penjualan dan insight utama**.
 
-![Dashboard](assets/dashboard_screenshot.png)
+![Dashboard](asset/dashboard_screenshot.png)
 
 Dashboard menampilkan:
 
